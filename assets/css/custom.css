@@ -1,0 +1,7 @@
+div#datatable-buttons_filter {
+    margin-left: 23rem;
+}
+
+.radio label::before {
+    margin-left: -18px !important;
+}
